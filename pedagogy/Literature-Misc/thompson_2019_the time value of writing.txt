@@ -1,0 +1,25 @@
+Draft V 1-0
+
+The Time Value of Writing
+By
+LTC Nicholas Thompson
+April 2019
+
+In the fall of 2017, when I first arrived at the United States Military Academy, I was handed a syllabus and shown my desk area that included a bookshelf full of books.  The books were, I assume, very intresting and full of information, but the syllabus only contained a fraction of them and within that fraction only snippets, really, of the books content.  Determined to instruct the class according to the standards of USMA, I set about reading everything on the syllabus and then some.  With a strong background in the International Relations literature, I was disappointed that all but one reading was new to me.  The special operations literature, while having much overlap with the political science discipline of IR in the world of irregular warfare, lacks the historic literature needed to teach directly from the syllabus.  After many hours, however, I was prepared and taught the semester to fair success.  Throughout the first year instructing I realized that pedagogy, not literary acumen, is the key to successfully transferring knowledge and critical thinking abilities to students.  For courses grounded in history and theory, students learn complex critical thinking skills by engaging material often by writing small assignments that demand their understanding of a critical thinking construct, which they must apply to a topic of interest unique to them.
+
+Pedagogy has many faces and facets, and each topic of study required different pedagological practices.  In the Special Operations / Low-intensity Conflict course students interact with complex theoretical ideas, such as irregular warfare (Kalyvas 2006), terrorism (Hoffman #year), counter-terrorism (Cronin #year), and insurgency (#author #year) to name only a few.  The original syllabus was designed around the traditional USMA pedagological rubirc:  write a mid-term, take a WPR, write a final paper, take a TEE, and the instructor's points are padding to make sure the averages come out properly.  I realized after the first semester that such an approach would not achieve the results I desired.  I noticed that regardless of the emphasis I put on reading, the students, on average, came to class minimally prepared.  I decided in the Fall of 2017 that the syllabus would need to change, the graded events would need to change, and my pedagological approach would need to change.  With all of these challenges, one question persisted in my mind:  how can I inspire--or coerce--students into engaging with the material?  Pop-quizzes seemed to fizzle in the first semester.  Programmed quizzes did not fare much better in the spring.  In the Fall of 2018 I tried a new approach that deviated drastically from the points allocation of my first year instructing.
+
+Points allocation, at USMA, is the driving motivator for student learning.  Unlike most universities, students at West Point track each point meticulously.  In fact, since points play such a central role in the student's graduation outcomes, students become adept at managing when and where they can lose points.  For the best and brightest tracking pionts is about achieving the best they can.  For the lower end of the distribution, however, tracking points is about being able to attend trips and events.  Alone the points system at the USMA is worthy of a capstone project, but it is not the focus of this project.  Acknowledging the value of points to USMA students, instructors must tailor their pedagological approach around that singular motivating factor.  Surely, many--most likely the brightest--students do the readings and engage with the material because they are interested.  Those students, sadly, are in the minority.  Thus, instructors and teachers must design their pedagological approach around the average student--not the brightest student.  
+
+How then can an instructor inspire students to engage with complex theoretical and historic literature and apply it so they understand it.  Tests and quizzes make for convenient points allocation methods, but the sheer volume of reading for a couse such as SOLIC (approximately 100 pages per class) prevents wrote memoriztion and makes quiz and test making too sujective and prone to error.  Writing assignments have a great degree of value, but become burdensome as the number of students increases.  This review of the literature addresses both of these methods.
+
+##Lit Review Topics I need to address:
+
+1.  critical thinking abilities
+2.  topics students are passionate about
+3.  short writing assignments
+4.  long writing assignments
+5.  critical thinking constructs
+6.  quizzes as pedagological tools
+7.  tests as pedagological tools
+8.  simulations as pedagological tools
